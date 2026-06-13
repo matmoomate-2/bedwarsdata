@@ -1,0 +1,63 @@
+{
+  "1": {
+    "name": "Better Bedwars",
+    "slug": "betterbedwars",
+    "description": "A 1.8.9 PVP Texture Pack designed for Bedwars players. Clean visuals, optimized performance, and competitive advantages. Available for both Java and Bedrock editions.",
+    "short_description": "A 1.8.9 PVP Texture Pack for Bedwars",
+    "edition": ["java", "bedrock"],
+    "featured": true,
+    "thumbnail": "",
+    "gallery": [],
+    "supported_versions": ["1.8.9"],
+    "categories": ["pvp", "bedwars", "texture-pack"],
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/texture-packs/betterbedwars",
+      "modrinth": "https://modrinth.com/resourcepack/betterbedwars",
+      "planetminecraft": "https://www.planetminecraft.com/texture-pack/betterbedwars/",
+      "mcpedl": "https://mcpedl.com/betterbedwars/"
+    },
+    "other_websites": {}
+  },
+
+  "2": {
+    "name": "Better Bedwars Lite",
+    "slug": "betterbedwars-lite",
+    "description": "A lightweight version of Better Bedwars optimized for lower-end hardware. Same great PVP design with reduced texture resolution for maximum FPS.",
+    "short_description": "Lightweight PVP texture pack for low-end hardware",
+    "edition": ["java"],
+    "featured": false,
+    "thumbnail": "",
+    "gallery": [],
+    "supported_versions": ["1.8.9", "1.12.2"],
+    "categories": ["pvp", "bedwars", "texture-pack", "lightweight"],
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/texture-packs/betterbedwars-lite",
+      "modrinth": "https://modrinth.com/resourcepack/betterbedwars-lite",
+      "planetminecraft": "https://www.planetminecraft.com/texture-pack/betterbedwars-lite/",
+      "mcpedl": ""
+    },
+    "other_websites": {
+      "GitHub Releases": "https://github.com/betterbedwars/betterbedwars-lite/releases"
+    }
+  },
+
+  "3": {
+    "name": "Better Bedwars HD",
+    "slug": "betterbedwars-hd",
+    "description": "The high-definition version of Better Bedwars with 256x textures. Stunning visuals for Bedwars with enhanced detail and vibrant colors.",
+    "short_description": "High-definition PVP texture pack with 256x textures",
+    "edition": ["java"],
+    "featured": false,
+    "thumbnail": "",
+    "gallery": [],
+    "supported_versions": ["1.8.9", "1.19"],
+    "categories": ["pvp", "bedwars", "texture-pack", "hd"],
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/texture-packs/betterbedwars-hd",
+      "modrinth": "https://modrinth.com/resourcepack/betterbedwars-hd",
+      "planetminecraft": "https://www.planetminecraft.com/texture-pack/betterbedwars-hd/",
+      "mcpedl": ""
+    },
+    "other_websites": {}
+  }
+}
