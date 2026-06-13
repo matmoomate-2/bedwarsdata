@@ -1,0 +1,42 @@
+{
+  "1": {
+    "name": "Better Bedwars",
+    "slug": "betterbedwars",
+    "description": "A 1.8.9 PVP Texture Pack designed for Bedwars players. Clean visuals, optimized performance, and competitive advantages. Available for both Java and Bedrock editions.",
+    "short_description": "A 1.8.9 PVP Texture Pack for Bedwars",
+    "edition": ["java", "bedrock"],
+    "featured": true,
+    "thumbnail": "",
+    "gallery": [],
+    "supported_versions": ["1.8.9"],
+    "categories": ["pvp", "bedwars", "texture-pack"],
+    "links": {
+      "curseforge": "https://www.curseforge.com/minecraft/texture-packs/betterbedwars",
+      "modrinth": "https://modrinth.com/resourcepack/betterbedwars",
+      "planetminecraft": "https://www.planetminecraft.com/texture-pack/betterbedwars/",
+      "mcpedl": "https://mcpedl.com/betterbedwars/"
+    },
+    "other_websites": {}
+  },
+
+  "2": {
+    "name": "Better Bedwars: Reimagined",
+    "slug": "betterbedwars-reimagined",
+    "description": "A stylised version of Better Bedwars with clean and minimalist textures.",
+    "short_description": "A remix of Better Bedwars with a slightly different style.",
+    "edition": ["java"],
+    "featured": false,
+    "thumbnail": "",
+    "gallery": [],
+    "supported_versions": ["1.8.9"],
+    "categories": ["pvp", "bedwars", "texture-pack", "lightweight"],
+    "links": {
+      "curseforge": "",
+      "modrinth": "https://modrinth.com/resourcepack/betterbedwars-reimagined",
+      "planetminecraft": "",
+      "mcpedl": ""
+    },
+    "other_websites": {
+      "GitHub Releases": ""
+    }
+  }
